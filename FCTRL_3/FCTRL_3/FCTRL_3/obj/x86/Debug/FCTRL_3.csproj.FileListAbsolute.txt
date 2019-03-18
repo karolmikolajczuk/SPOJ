@@ -1,0 +1,5 @@
+/home/karol/Projekty/SPOJ/FCTRL_3/FCTRL_3/FCTRL_3/obj/x86/Debug/FCTRL_3.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/SPOJ/FCTRL_3/FCTRL_3/FCTRL_3/bin/Debug/FCTRL_3.exe
+/home/karol/Projekty/SPOJ/FCTRL_3/FCTRL_3/FCTRL_3/bin/Debug/FCTRL_3.pdb
+/home/karol/Projekty/SPOJ/FCTRL_3/FCTRL_3/FCTRL_3/obj/x86/Debug/FCTRL_3.exe
+/home/karol/Projekty/SPOJ/FCTRL_3/FCTRL_3/FCTRL_3/obj/x86/Debug/FCTRL_3.pdb
