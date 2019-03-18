@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRIME", "PRIME\PRIME.csproj", "{48A8BC42-F39D-4A7F-99CE-E89E172D2D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A8BC42-F39D-4A7F-99CE-E89E172D2D98}.Debug|x86.ActiveCfg = Debug|x86
+		{48A8BC42-F39D-4A7F-99CE-E89E172D2D98}.Debug|x86.Build.0 = Debug|x86
+		{48A8BC42-F39D-4A7F-99CE-E89E172D2D98}.Release|x86.ActiveCfg = Release|x86
+		{48A8BC42-F39D-4A7F-99CE-E89E172D2D98}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
