@@ -1,0 +1,5 @@
+/home/karol/Projekty/SPOJ/PRIME/PRIME/PRIME/bin/Debug/PRIME.exe
+/home/karol/Projekty/SPOJ/PRIME/PRIME/PRIME/bin/Debug/PRIME.pdb
+/home/karol/Projekty/SPOJ/PRIME/PRIME/PRIME/obj/x86/Debug/PRIME.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/SPOJ/PRIME/PRIME/PRIME/obj/x86/Debug/PRIME.exe
+/home/karol/Projekty/SPOJ/PRIME/PRIME/PRIME/obj/x86/Debug/PRIME.pdb

@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{48A8BC42-F39D-4A7F-99CE-E89E172D2D98}|Default">
+  <MonoDevelop.Ide.ItemProperties.PRIME PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="PRIME/Program.cs">
     <Files>
-      <File FileName="PRIME/Program.cs" Line="1" Column="1" />
+      <File FileName="PRIME/Program.cs" Line="2" Column="13" />
+      <File FileName="PRIME/CheckPrime.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
