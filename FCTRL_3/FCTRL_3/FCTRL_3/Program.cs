@@ -6,8 +6,8 @@ namespace FCTRL_3
     {
         public static void Main(string[] args)
         {
-            UInt16 tests = Convert.ToUInt16(Console.ReadLine());
-            for (int i = 0; i < tests; i++)
+            ushort tests = Convert.ToUInt16(Console.ReadLine());
+            for (ushort i = 0; i < tests; i++)
             {
                 Factorial.firstTwoNumbers(Convert.ToUInt64(Console.ReadLine()));
             }
